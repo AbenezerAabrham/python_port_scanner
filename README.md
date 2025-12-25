@@ -1,2 +1,4 @@
-# python_port_scanner
-port scaner in Python is a classic and very useful exercise for networking and cybersecurity basics.
+⚠️ Disclaimer
+
+This tool is for educational purposes only.
+Do not scan systems you do not own or have permission to test.
